@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Ranjit Sah</title>
+    <link>https://loveless1234.github.io/ranjit-portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Ranjit Sah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://loveless1234.github.io/ranjit-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects I : Investigating tree models in the analysis of diabetes dataset(Thesis)</title>
+      <link>https://loveless1234.github.io/ranjit-portfolio/post/project-1/</link>
+      <pubDate>Tue, 16 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://loveless1234.github.io/ranjit-portfolio/post/project-1/</guid>
+      <description>Problem Statements This work aims to investigate machine learning methods for such problems. These methods are already used in medicine and enable us to develop computational models that provide the medical team with more relevant data for diagnosing diabetes in humans and prevent patients from exceeding thresholds in controlling glucose levels.
+We’ll be using Machine Learning to predict whether a person has diabetes or not, based on information about the patient such as blood pressure, body mass index (BMI), age, etc.</description>
+    </item>
+    
+    <item>
+      <title>Project  III: 	ShopShoee project (Academic project)</title>
+      <link>https://loveless1234.github.io/ranjit-portfolio/post/project-3/</link>
+      <pubDate>Fri, 19 Jul 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://loveless1234.github.io/ranjit-portfolio/post/project-3/</guid>
+      <description>Problem statement A shoe store wants to sell products online. Products are shoes, their models in different variants are available. This also includes a shop system. Customers can order shoes via a shopping cart. The database also includes an analysis system for examining sales figures. The database should be used to
+ to be able to display the offer, find faulty data, To be able to evaluate sales. It should be flexible enough to be easily expanded or changed later.</description>
+    </item>
+    
+    <item>
+      <title>Project  II: 	Telecom Churn Prediction (Academic project)</title>
+      <link>https://loveless1234.github.io/ranjit-portfolio/post/project-2/</link>
+      <pubDate>Wed, 10 Apr 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://loveless1234.github.io/ranjit-portfolio/post/project-2/</guid>
+      <description>Problem statement In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://loveless1234.github.io/ranjit-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://loveless1234.github.io/ranjit-portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Phone: +491622423643
+Email: ranjit.sah@fu-berlin.de
+LinkedIn: https://www.linkedin.com/in/ranjit-sah-44ba04182/
+GitHub:	https://github.com/Loveless1234
+Facebook:	https://www.facebook.com/lovelessdream/
+Instagram:	https://www.instagram.com/sahranjit77/?hl=en</description>
+    </item>
+    
+  </channel>
+</rss>
